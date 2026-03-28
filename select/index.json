@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "アイスベースガール",
   "base_artist": "sanetii",
-  "createdAt": "2026-03-01T14:30:20.882810Z",
+  "createdAt": "2026-03-28T06:01:54.572848Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "sanetii",
       "has_synced": false,
       "path": "select/pl_01_アイスベースガール_sanetii.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "アイスベースガール",
+      "artist": "sanetii",
+      "has_synced": false,
+      "path": "select/localdb_01_アイスベースガール_sanetii.txt",
+      "repo_name": "yQlAzsuJVq4"
     }
   ]
 }
